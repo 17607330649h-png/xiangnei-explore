@@ -1,0 +1,4 @@
+*.mjs -text
+*.html -text
+*.css -text
+*.svg -text
